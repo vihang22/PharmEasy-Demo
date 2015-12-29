@@ -1,0 +1,5 @@
+/* Copyright (C) Jignesh Patel, Inc - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Jignesh Patel <p.jignesh23@gmail.com>, December 2015
+ */

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PharmEasy</string>
+
+    <string name="title_medicines">Medicines</string>
+    <string name="title_sync">#MedicineForAll</string>
+    <string name="message_sync">You\'re here! The day just got better.</string>
+</resources>
